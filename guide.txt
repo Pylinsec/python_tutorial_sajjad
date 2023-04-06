@@ -3,3 +3,18 @@ pyinstaller  -w --onefile 1_text.py
 nokte avval --> name file bayad ba pasvand bashad 
 nokte dovoom --> -w --> hengam run cmd run nemishevad 
 nokteh sevvom --> --onefile > FILE  maqsad be soorat yek file doroost mikone 
+
+
+make repository 
+
+run gitbash 
+git init 
+git add .
+git commit -m 'session 38'y 
+git remote add origin repository address 
+
+
+git clone https://github.com/abolbdh/sajjad_ansaryan.git
+
+
+
