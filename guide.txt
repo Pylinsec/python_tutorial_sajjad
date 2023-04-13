@@ -6,15 +6,21 @@ nokteh sevvom --> --onefile > FILE  maqsad be soorat yek file doroost mikone
 
 
 make repository 
+beryae bar avval-->
 
 run gitbash 
 git init 
 git add .
 git commit -m 'session 38'y 
-git remote add origin repository address 
+git remote add origin repository address
+git push 
 
 
+berye bar dovoom ye bad az clone 
 git clone https://github.com/abolbdh/sajjad_ansaryan.git
+git add .
+git commit -m 'session 38'y 
+git push
 
 
 
