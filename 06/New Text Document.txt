@@ -1,0 +1,15 @@
+﻿str = "Reverse words in a given String in Python"
+print(str[1::])
+print(str[:8:])
+print(str[1::-1])
+print(str[:12:-1])
+print(str[::])
+print(str[-5:-2:1])
+print(str[-5:-2].upper())
+print(str[1::].title())
+print(str[1:12].swapcase())
+print(str[1:6:].count("in"))
+print(str[1::].count("in"))
+print("in" in str)
+print("python" not in str)
+  هست با پیغام مناسب اطلاع دهد و اگر هم نیست با پیغام مناسب اطلاع دهد.str برنامه ای بنویسید که از کاربر رشته ای بگیرد و چک کند که اگر داخل 

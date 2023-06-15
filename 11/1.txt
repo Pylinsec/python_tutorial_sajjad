@@ -1,0 +1,10 @@
+str1 = str1+'*'str1 = str1+'*'str1 = str
+1+'*'str1 = str1+'*'str1 = str1+'*'str1 = str1+'*
+'str1 = str1+'*'str1 = str1+'*'str1 = str1+'*'str1 =
+ str1+'*'str1 = str1+'*'str1 = str1+'*'str1 = str1+'*
+'str1 = str1+'*'str1 = str1+'*'str1 = str1+'*'str1 = st
+r1+'*'str1 = str1+'*'str1 = str1+'*'str1 = str1+'*'str1 
+= str1+'*'str1 = str1+'*'str1 = str1+'*'str1 = str1+'*'st
+r1 = str1+'*'str1 = str1+'*'str1 = str1+'*'str1 = str1+'*'st
+r1 = str1+'*'str1 = str1+'*'str1 = str1+'*'str1 = str1+'*'str1 
+= str1+'*'str1 = str1+'*'str1 = str1+'*'sajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryansajad ansaryan

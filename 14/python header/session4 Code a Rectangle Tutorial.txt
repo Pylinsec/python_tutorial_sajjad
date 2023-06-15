@@ -1,0 +1,13 @@
+from turtle import *
+
+fillcolor("red")
+begin_fill()
+
+for i in range(2):
+    forward(300)
+    right(90)
+    forward(150)
+    right(90)
+
+end_fill()
+hideturtle()
