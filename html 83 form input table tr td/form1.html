@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form</title>
+</head>
+<style>
+    table {border:2px solid black;width: 500px;}
+    label {font-size: 20px;font-family: tahoma;}
+</style>
+<body  dir="rtl">
+    <form action="">
+        <table>
+            <!-- type heman no -->
+             <!-- placeholder chi aval be soorat kam rang benevisam -->
+        <tr>
+            <td><label for="username">نام کاربری:</label</td>
+            <td><input type="text" placeholder="نام کاربردی را وارد کنید" ></td>
+        </tr>
+        <br>
+        <tr>
+            <td><label for="password"> رمز عبور:</label</td>
+            <td><input type="text" placeholder="رمز را وارد کنید" ></td>
+        </tr>
+        <br>
+        <tr>
+            <td><label for="email"> ایمیل:</label</td>
+            <td><input type="email" placeholder="ایمیل را وارد کنید" ></td>
+        </tr>
+        <br><br>
+        <tr>
+            <td><label for="">آدرس:</label></td>
+            <td><textarea rows="10" cols="20"></textarea></td>
+        </tr>
+        <tr>
+            <td><label for="">جنسیت: </label></td>
+            <td><input type="radio" name="gender" >مرد
+            <input type="radio" name="gender" >زن</td>
+        </tr>
+        <tr>
+            <td><label for="">استان: </label></td>
+            <td>
+                <select name="" id="">
+                    <option value="">تهران</option>
+                    <option value="">شیراز</option>
+                    <option value="">اصفهان</option>
+                    <option value="">تبریز</option>
+                    <option  selected >بوشهر</option>
+                   
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td><label for="">شهر: </label></td>
+            <td>
+                <select>
+            <optgroup label="استان بوشهر"> 
+                <option value="">جم</option>
+                <option value="">کنگان</option>
+                <option value="">عسلویه</option>
+                <option value="">گناوه</option>
+                <option value="">دیر</option>
+            </optgroup>
+        </select>
+            </td>
+        </tr>
+        <tr>
+            <td><label for="">شهر: </label></td>
+            <td>
+            <select>
+            <optgroup label="استان فارس"> 
+                <option value="">لامرد</option>
+                <option value="">گله دار</option>
+                <option value="">عسلویه</option>
+                <option value="">گناوه</option>
+                <option value="">دیر</option>
+            </optgroup>
+        </select>
+            </td>
+        </tr>
+        <tr>
+            <td><label for="">علافه مندی ها:</label></td>
+            <td>
+                <input type="checkbox" checked >فوتبال
+                <input type="checkbox"  >فیلم
+                <input type="checkbox"  >موسیفی
+                <input type="checkbox"  >کتاب
+                <input type="checkbox"  >ماشین
+                <input type="checkbox"  >موتور
+            </td>
+        </tr>
+        <tr>
+            <td><label for="">فایل:</label></td>
+            <td><input type="file" name="" id=""></td>
+        </tr>
+        <tr>
+            <td><input type="submit" value="ثبت نام"></td>
+            <td><input type="reset" value="پاک کردن فرم"></td>
+        </tr>
+
+        <label for="start">Start month:</label>
+
+        <input type="month" id="start" name="start" min="2000-03" value="2018-05" />
+
+
+        </table>
+    </form>
+</body>
+</html>
