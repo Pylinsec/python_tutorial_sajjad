@@ -1,0 +1,17 @@
+h2 {
+
+    color: pink;
+    border: 2px dashed blue;
+}
+font-family:tahoma}
+#test3 {color: yellow;
+font-size: 50px;
+font-family:tahoma}
+#test4 {color: brown;
+font-size: 50px;
+font-family:tahoma;
+border: 10px solid red;}
+.test5 {color: brown;
+font-size: 50px;
+font-family:tahoma;
+border: 10px dashed black;}
