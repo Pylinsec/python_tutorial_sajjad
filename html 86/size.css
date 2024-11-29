@@ -1,0 +1,16 @@
+body {
+    background-color: lightgreen;
+}
+/* اندازه های منطقی  */
+/* px -->  */
+/* cm , mm , km ,m */
+.test1{
+/* width: 200px;
+height: 300px; */
+/* width: 200mm;
+height: 200mm; */
+width: 20 cm;
+height: 20 cm;
+background-color: white;
+
+}

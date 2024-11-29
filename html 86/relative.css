@@ -1,0 +1,24 @@
+.test1{
+width: 400px;
+height: 400px;
+background-color: red;
+
+}
+/* % --> chand darsan andazeh parent */
+.test2{
+    /* em --> chand beraber parent */
+    width: 10em;
+    height: 10em;
+/* width: 300%;
+height: 50%; */
+/* ch --> andaze adas 0 englisi  */
+/* width: 50ch;
+height: 50ch; */
+background-color: blue;
+
+}
+
+body {
+    height:auto;
+    width: auto;
+}
