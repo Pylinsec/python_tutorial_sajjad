@@ -1,0 +1,25 @@
+absolute--->
+ px , mm , cm , in,
+relative 
+ % --> chand darsad valed  hamn text hast ham box 
+em --> chan darsad valed rooye text 
+ch --> andaze zero
+ex --> be andaze ertefah x 
+rem --> bargasht root asli  rootem --> tag html barmigardad
+
+1vw --> viewport width --> 1% tool bowzer 
+1vh --> 1% ertefah safheh 
+1vmin--> min w, h --> 1% 
+1vmax --> 1% max h ya w
+
+
+
+display --> inline --> v, h nemigireh 
+display --> block --> yani zir ham mian v , h migireh
+display --> inline-block --> dar yek khat , v,h migireh
+display:none --> tag nemayesh dadeh nimishe
+visibilty: hidden
+opacity:0,1 --> shafafiat kem ya ziad mikone 
+
+hover --> raftan mose rooye tag
+active --> negah dashtn click rooye on 
