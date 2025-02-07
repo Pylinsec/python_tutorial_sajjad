@@ -1,0 +1,8 @@
+body {
+    background-color: red;
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: 1500px 1000px;
+    background-position: 50px 40px;
+    background-attachment:fixed ;
+}
