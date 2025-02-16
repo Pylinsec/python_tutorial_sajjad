@@ -1,0 +1,17 @@
+
+.t1 {
+    background-color: blue;
+    /* height: 50vmin; 
+    width: 50vmax; */
+    height: 50vh; 
+    width: 50vw;
+
+}
+
+/* vh viewport height */
+/* vw viewport width  */
+/* .t1{
+    height: 50vh;
+    width: 50vw;
+    background-color: blue;
+} */

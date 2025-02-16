@@ -1,0 +1,28 @@
+.span1 {
+    width: 100222px;
+    background-color: red;
+    height: 20px;
+}
+
+.div{
+    display: inline-block;
+    background-color: green;
+    height: 200px;
+    width: 100px;
+    /* width: 100px; */
+}
+
+/* inline
+block
+inline-block */
+.div1 {
+    display: inline-block;
+}
+
+.div2{
+    /* opacity: .5; */
+    display: none;
+}
+.div3{
+    visibility: visible;
+}

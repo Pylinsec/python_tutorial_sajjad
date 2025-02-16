@@ -1,0 +1,42 @@
+/* .logical {
+    height: 10in;;
+    width: 10in;
+    background-color: aqua;
+}
+
+.plogic {
+    font-size: 30in;
+
+} */
+/* % em ex ch vmin vmax */
+
+/* .parent {
+    height: 400px;
+    width: 400px;
+    background-color: red;
+
+}
+
+.child1 {
+
+    height: 1em;
+    width: 1em;
+    background-color: pink;
+}
+/* .child2 {
+
+    height: 50ch;
+    width: 50ch;
+    background-color: yellow;
+    
+} */ 
+ .body {
+    font-size: 50px;
+ }
+
+.p {
+    font-size: 200px;
+}
+.c {
+    font-size: 1rem;
+}
